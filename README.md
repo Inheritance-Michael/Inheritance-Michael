@@ -1,6 +1,13 @@
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,android,git,github&theme=dark" alt="Kotlin Developer" />
+  <!-- Main Skillicons Line -->
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github&theme=dark" alt="Tech Stack" />
+<br />
+<!-- Additional Framework Badges -->
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+<img src="https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white" alt="Ktor" />
+<img src="https://img.shields.io/badge/Koin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Koin" />
   <br/>
+  
   <h1>Hi, I'm Inheritance👋</h1>
   <h3>Native Android || Kotlin || Building cross-platform ecosystems with Kotlin & Jetpack Compose</h3>
 </div>
