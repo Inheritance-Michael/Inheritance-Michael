@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Inheritance Michael banner" width="100%" />
+<img src="assets/1789155370759.png" alt="Inheritance Michael banner" width="100%" />
 
 <div align="center">
 
